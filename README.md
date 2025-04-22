@@ -16,6 +16,8 @@
 
 ---
 
+<br>
+
 # About Pokémon TestFlight
 
 **Pokémon TestFlight** is a fangame created by **Emerald_Void** using **Pokémon Essentials** and **PSDK**.
@@ -24,7 +26,7 @@ Unlike traditional Pokémon games, TestFlight emphasizes **open-world exploratio
 
 This game also serves as a **proof of concept and learning project**, as the developers explore and experiment with Pokémon Essentials and PSDK. It was built to test core mechanics and ideas for future, more expansive projects.
 
----
+
 <br>
 
 # 💻 Minimum Recommended Specs
@@ -33,8 +35,6 @@ This game also serves as a **proof of concept and learning project**, as the dev
 - **RAM:** 4 GB  
 - **Storage:** 1+ GB free space  
 - **Graphics:** Integrated GPU is sufficient  
-
----
 
 <br>
 
@@ -45,8 +45,6 @@ This game also serves as a **proof of concept and learning project**, as the dev
 3. Open the folder and run `Game.exe`.
 
 📝 _No installation of RPG Maker XP or Pokémon Essentials is required—everything is bundled with the game._
-
----
 
 <br>
 
@@ -85,8 +83,6 @@ This game also serves as a **proof of concept and learning project**, as the dev
 ### Q: Who do I contact for help with the game?  
 **A:** Reach out via the GitHub page or post in the community if one is available.
 
----
-
 <br>
 
 # Credits
@@ -100,8 +96,6 @@ This game also serves as a **proof of concept and learning project**, as the dev
 - Sprites by [Artist]  
 - Scripting Support: [Names]
 
----
-
 <br>
 
 # ⚠️ Disclaimer
@@ -110,4 +104,4 @@ This is a **non-profit fan project**, created by fans for fans.
 Pokémon is © Nintendo, Game Freak, and The Pokémon Company.  
 No copyright infringement intended.
 
----
+
