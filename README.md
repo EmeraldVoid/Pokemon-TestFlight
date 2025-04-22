@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  A lightweight collection of <a href="https://www.python.org/">Python-based</a> scripts
+  A fan-made Pokémon game focused on open-world exploration and experimentation, built with Pokémon Essentials and PSDK.
   <br><br>
-  <a href="https://github.com/EmeraldVoid/FileMorph/releases"><strong>Download Latest Release »</strong></a>
+  <a href="https://github.com/EmeraldVoid/Pokemon-TestFlight/releases"><strong>Download Latest Release »</strong></a>
   <br><br>
-  <a href="https://github.com/EmeraldVoid/FileMorph/issues/new">Report a Bug</a>
+  <a href="https://github.com/EmeraldVoid/Pokemon-TestFlight/issues">Report a Bug</a>
   ·
   <a href="#faq">FAQ</a>
   ·
-  <a href="https://emeraldvoid.github.io/FileMorph/">Website</a>
+  <a href="https://emeraldvoid.github.io/Pokemon-TestFlight/index.html">Website</a>
 </p>
 
 ---
@@ -57,13 +57,13 @@ This game also serves as a **proof of concept and learning project**, as the dev
 **A:** Yes! Pokémon TestFlight is 100% free.
 
 ### Q: How many Pokémon are in the game?  
-**A:** [Coming Soon – depends on your Pokédex count.]
+**A:** [Coming Soon]
 
 ### Q: What region is the game set in?  
-**A:** [Coming Soon – name or description of your region.]
+**A:** [Coming Soon]
 
 ### Q: How long is the main storyline?  
-**A:** [Coming Soon – estimated playtime or number of badges.]
+**A:** [Coming Soon]
 
 ### Q: How do I install the game?  
 **A:** Just download the latest release, unzip the folder, and run `Game.exe`.
@@ -75,7 +75,7 @@ This game also serves as a **proof of concept and learning project**, as the dev
 **A:** Nope! Everything you need is bundled inside the game folder.
 
 ### Q: I found a bug—how can I report it?  
-**A:** Submit any bugs or issues on the [GitHub Issues Page](https://github.com/EmeraldVoid/FileMorph/issues/new).
+**A:** Submit any bugs or issues on the [GitHub Issues Page](https://github.com/EmeraldVoid/Pokemon-TestFlight/issues).
 
 ### Q: Will there be updates or patches?  
 **A:** Currently undecided. This project was primarily for learning and experimentation.
@@ -87,7 +87,7 @@ This game also serves as a **proof of concept and learning project**, as the dev
 
 # Credits
 
-The full credits are available [here](). Listing everything in this repo would’ve made it a bit too cluttered.
+The full credits are available [here](https://github.com/EmeraldVoid/Pokemon-TestFlight/blob/main/credits.md). Listing everything in this repo would’ve made it a bit too cluttered.
 
 <br>
 
