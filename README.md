@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/JyRXNg9.png">
+  <img src="https://i.imgur.com/X1N3ADz.png">
 </p>
 
 <p align="center">
@@ -25,6 +25,7 @@ Unlike traditional Pokémon games, TestFlight emphasizes **open-world exploratio
 This game also serves as a **proof of concept and learning project**, as the developers explore and experiment with Pokémon Essentials and PSDK. It was built to test core mechanics and ideas for future, more expansive projects.
 
 ---
+<br>
 
 # 💻 Minimum Recommended Specs
 
@@ -35,6 +36,8 @@ This game also serves as a **proof of concept and learning project**, as the dev
 
 ---
 
+<br>
+
 # 📦 How to Install
 
 1. Download the latest release from the GitHub page.
@@ -44,6 +47,8 @@ This game also serves as a **proof of concept and learning project**, as the dev
 📝 _No installation of RPG Maker XP or Pokémon Essentials is required—everything is bundled with the game._
 
 ---
+
+<br>
 
 # FAQ
 
@@ -82,6 +87,8 @@ This game also serves as a **proof of concept and learning project**, as the dev
 
 ---
 
+<br>
+
 # Credits
 
 **Developed by:** Emerald_Void
@@ -94,6 +101,8 @@ This game also serves as a **proof of concept and learning project**, as the dev
 - Scripting Support: [Names]
 
 ---
+
+<br>
 
 # ⚠️ Disclaimer
 
