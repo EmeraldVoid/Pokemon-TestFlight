@@ -26,7 +26,7 @@ Unlike traditional Pokémon games, TestFlight emphasizes **open-world exploratio
 
 This game also serves as a **proof of concept and learning project**, as the developers explore and experiment with Pokémon Essentials and PSDK. It was built to test core mechanics and ideas for future, more expansive projects.
 
-<p align="center">You can find out more about the game on the <a href="https://emeraldvoid.github.io/Pokemon-TestFlight/index.html">Official Website</a>.</p>
+<h3 align="center">You can find out more about the game on the <a href="https://emeraldvoid.github.io/Pokemon-TestFlight/index.html">Official Website.</h3></p>
 
 <br>
 
