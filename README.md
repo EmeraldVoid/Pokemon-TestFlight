@@ -87,14 +87,7 @@ This game also serves as a **proof of concept and learning project**, as the dev
 
 # Credits
 
-**Developed by:** Emerald_Void
-
-**Special Thanks To:**
-- Pokémon Essentials by Maruno & contributors  
-- PSDK by [Team PSDK]  
-- Music by [Composer]  
-- Sprites by [Artist]  
-- Scripting Support: [Names]
+The full credits are available [here](). Listing everything in this repo would’ve made it a bit too cluttered.
 
 <br>
 
