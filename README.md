@@ -82,7 +82,7 @@ This game also serves as a **proof of concept and learning project**, as the dev
 **A:** Currently undecided. This project was primarily for learning and experimentation.
 
 ### Q: Who do I contact for help with the game?  
-**A:** Reach out via the GitHub page or post in the community if one is available.
+**A:** Reach out via the [discussions](https://github.com/EmeraldVoid/Pokemon-TestFlight/discussions/categories/q-a) or file an [issue](https://github.com/EmeraldVoid/Pokemon-TestFlight/issues)
 
 <br>
 
