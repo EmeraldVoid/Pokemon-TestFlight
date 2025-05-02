@@ -39,7 +39,7 @@ Adventure, mystery, and glory await—are you ready to climb?
 
 This game also serves as a **proof of concept and learning project**, as the developers explore and experiment with Pokémon Essentials and PSDK. It was built to test core mechanics and ideas for future, more expansive projects.
 
-*Battle Island, Battle Tower, and Professor [NAME] are all placeholder names and may change as development progresses further.*
+> ⚠️ *Battle Island, Battle Tower, and Professor [NAME] are all placeholder names and may change as development progresses further.*
 
 <h3 align="center">You can find out more about the game on the <a href="https://emeraldvoid.github.io/Pokemon-TestFlight/index.html">Official Website.</h3></a>
 
