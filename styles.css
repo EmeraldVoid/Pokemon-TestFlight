@@ -99,4 +99,8 @@ body {
   .announcement p {
     margin: 0.5rem 0 0;
   }
+  .announcement-date {
+    color: #ffcc00; /* Example: yellow */
+    font-weight: bold;
+  }
   

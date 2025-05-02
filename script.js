@@ -33,6 +33,10 @@ document.addEventListener("DOMContentLoaded", () => {
             currentContainer.appendChild(div);
           }
         });
+        div.innerHTML = `
+  <h3><span class="announcement-date">[${announcementDate.toDateString()}]</span> ${title}</h3>
+  <p>${message}</p>
+`;
       })
       .catch(error => console.error("Error loading announcements:", error));
   });
