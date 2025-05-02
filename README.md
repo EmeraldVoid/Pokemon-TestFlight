@@ -27,11 +27,11 @@
 
 Your dream Pokémon adventure is about to begin! With a pair of running shoes, some spending money (thanks, Mom!), and excitement in your heart, you're ready to take on the world.
 
-After receiving your first Pokémon from the esteemed **Professor [NAME]**, you learn about an ambitious new venture—**Battle Tower**, a colossal skyscraper rising from the mysterious **Battle Island.**
+After receiving your first Pokémon from the esteemed **Professor [NAME]**, you learn about an ambitious new venture—**Battle Tower**, a colossal skyscraper rising from the mysterious **League Island.**
 
 Developed by the powerful conglomerate Big Poke Co., Battle Tower replaces the traditional Gym system. Instead of traveling town to town, trainers now climb the tower, facing all eight Gym Leaders, the Elite Four, and finally the Champion, all under one roof. Is it about saving space? Maximizing profits? Or creating the ultimate training gauntlet? The truth is anyone's guess.
 
-Professor [NAME] has been personally invited to Battle Island by Big Poke Co.’s enigmatic CEO. Seeing potential in you, the professor invites you to join him and take on the Battle Tower challenge.
+Professor [NAME] has been personally invited to League Island by Big Poke Co.’s enigmatic CEO. Seeing potential in you, the professor invites you to join him and take on the Battle Tower challenge.
 
 Your goal is clear: conquer the tower, defeat every Gym Leader, outlast the Elite Four, and claim victory over the Champion. What secrets lie at the top of the tower? Only the strongest will find out.
 
@@ -39,7 +39,7 @@ Adventure, mystery, and glory await—are you ready to climb?
 
 This game also serves as a **proof of concept and learning project**, as the developers explore and experiment with Pokémon Essentials and PSDK. It was built to test core mechanics and ideas for future, more expansive projects.
 
-> ⚠️ *Battle Island, Battle Tower, and Professor [NAME] are all placeholder names and may change as development progresses further.*
+> ⚠️ *Battle Tower, and Professor [NAME] are all placeholder names and may change as development progresses further.*
 
 <h3 align="center">You can find out more about the game on the <a href="https://emeraldvoid.github.io/Pokemon-TestFlight/index.html">Official Website.</h3></a>
 
