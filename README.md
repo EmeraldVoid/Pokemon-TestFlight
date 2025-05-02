@@ -12,9 +12,12 @@
   <a href="#faq">FAQ</a>
   ·
   <a href="https://emeraldvoid.github.io/Pokemon-TestFlight/index.html">Website</a>
+  ·
+  <a href="https://github.com/EmeraldVoid/Pokemon-TestFlight/discussions/categories/announcements">Announcements</a>
 </p>
 
 ---
+[![GitHub Pokémon Studio](https://img.shields.io/badge/Powered_by-Pokémon_Studio-6562f8?style=flat&logo=github&labelColor=1d1c22)](https://github.com/PokemonWorkshop/PokemonStudio) [![RPG Maker XP](https://img.shields.io/badge/Powered_by-RMXP-fc9400?style=flat&logo=github&labelColor=1d1c22)](https://github.com/PokemonWorkshop/PokemonStudio)
 
 <br>
 
