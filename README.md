@@ -60,10 +60,25 @@ This game also serves as a **proof of concept and learning project**, as the dev
 
 # Minimum Recommended Specs
 
-- **OS:** Windows 7 or higher  
-- **RAM:** 4 GB  
-- **Storage:** 1+ GB free space  
-- **Graphics:** Integrated GPU is sufficient  
+## Minimum
+
+- **OS:** Microsoft® Windows® XP/200064-bit OS is NOT supported
+- **Processor:** PC with 800MHz Intel® Pentium® III equivalent or higher processor
+- **Memory:** At least 128 MB of system RAM
+- **Graphics Card:** 1024x768 or better video resolution in High Color mode
+- **Storage:** At least 100 MB of available hard disk space
+- **Sound Card:** DirectSound-compatible sound card
+
+## Recommended
+
+- **OS:** Microsoft® Windows® XP/Vista/764-bit OS is NOT supported
+- **Processor:** PC with 1.5GHz Intel® Pentium® 4 equivalent or higher processor
+- **Memory:** At least 256 MB of system RAM
+- **Graphics Card:** 1024x768 or better video resolution in True Color mode
+- **Storage:** At least 500 MB of available hard disk space
+- **Sound Card:** DirectSound-compatible sound card
+
+*These specifications were pulled directly from the RPG Maker XP wesbite*
 
 <br>
 
