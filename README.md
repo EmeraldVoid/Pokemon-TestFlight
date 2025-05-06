@@ -27,11 +27,11 @@
 
 Your dream Pokémon adventure is about to begin! With a pair of running shoes, some spending money (thanks, Mom!), and excitement in your heart, you're ready to take on the world.
 
-After receiving your first Pokémon from the esteemed **Professor [NAME]**, you learn about an ambitious new venture—**Battle Tower**, a colossal skyscraper rising from the mysterious **League Island.**
+After receiving your first Pokémon from the esteemed **Professor [NAME]**, you learn about an ambitious new venture—**Battle Tower**, a colossal skyscraper rising from the mysterious **Battle Island.**
 
 Developed by the powerful conglomerate Big Poke Co., Battle Tower replaces the traditional Gym system. Instead of traveling town to town, trainers now climb the tower, facing all eight Gym Leaders, the Elite Four, and finally the Champion, all under one roof. Is it about saving space? Maximizing profits? Or creating the ultimate training gauntlet? The truth is anyone's guess.
 
-Professor [NAME] has been personally invited to League Island by Big Poke Co.’s enigmatic CEO. Seeing potential in you, the professor invites you to join him and take on the Battle Tower challenge.
+Professor [NAME] has been personally invited to Battle Island by Big Poke Co.’s enigmatic CEO. Seeing potential in you, the professor invites you to join him and take on the Battle Tower challenge.
 
 Your goal is clear: conquer the tower, defeat every Gym Leader, outlast the Elite Four, and claim victory over the Champion. What secrets lie at the top of the tower? Only the strongest will find out.
 
@@ -104,6 +104,13 @@ This game also serves as a **proof of concept and learning project**, as the dev
 # Credits
 
 The full credits are available [here](https://github.com/EmeraldVoid/Pokemon-TestFlight/blob/main/credits.md). Listing everything in this repo would’ve made it a bit too cluttered.
+
+<br>
+
+# Support the Game:
+If you liked the game and wish to share the love, feel free to use one of the UserBars (or make your own and submit it in [Discussions](https://github.com/EmeraldVoid/Pokemon-TestFlight/discussions))
+
+Preview:
 
 <br>
 
