@@ -129,9 +129,9 @@ Preview:
 
 <br>
 
-# ⚠️ Disclaimer
+# Disclaimer
 
-This is a **non-profit fan project**, created by fans for fans.  
+> ⚠️ This is a **non-profit fan project**, created by fans for fans.  
 Pokémon is © Nintendo, Game Freak, and The Pokémon Company.  
 No copyright infringement intended.
 
