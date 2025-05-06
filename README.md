@@ -24,19 +24,13 @@
 
 ### Contents:
 
-I. About Pokémon TestFlight
-
-II. Minimum Recommended Specs
-
-III. How to Install
-
-IV. FAQ's
-
-V. Credits
-
-VI. Support the Game
-
-VII. Disclaimer
+- [I. About Pokémon TestFlight](#about-pokémon-testflight)
+- [II. Minimum Recommended Specs](#minimum-recommended-specs)
+- [III. How to Install](#how-to-install)
+- [IV. FAQ's](#faqs)
+- [V. Credits](#credits)
+- [VI. Support the Game](#support-the-game)
+- [VII. Disclaimer](#disclaimer)
 
 <br>
 
