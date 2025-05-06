@@ -58,7 +58,7 @@ This game also serves as a **proof of concept and learning project**, as the dev
 
 <br>
 
-# 💻 Minimum Recommended Specs
+# Minimum Recommended Specs
 
 - **OS:** Windows 7 or higher  
 - **RAM:** 4 GB  
@@ -67,7 +67,7 @@ This game also serves as a **proof of concept and learning project**, as the dev
 
 <br>
 
-# 📦 How to Install
+# How to Install
 
 1. Download the latest release from the GitHub page.
 2. Unzip the game folder.
