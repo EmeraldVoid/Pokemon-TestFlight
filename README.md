@@ -17,7 +17,26 @@
 </p>
 
 ---
+
+<br>
+
 [![GitHub Pokémon Studio](https://img.shields.io/badge/Powered_by-Pokémon_Studio-6562f8?style=flat&logo=github&labelColor=1d1c22)](https://github.com/PokemonWorkshop/PokemonStudio) [![RPG Maker XP](https://img.shields.io/badge/Powered_by-RMXP-fc9400?style=flat&logo=github&labelColor=1d1c22)](https://github.com/PokemonWorkshop/PokemonStudio)
+
+### Contents:
+
+I. About Pokémon TestFlight
+
+II. Minimum Recommended Specs
+
+III. How to Install
+
+IV. FAQ's
+
+V. Credits
+
+VI. Support the Game
+
+VII. Disclaimer
 
 <br>
 
@@ -108,7 +127,9 @@ The full credits are available [here](https://github.com/EmeraldVoid/Pokemon-Tes
 <br>
 
 # Support the Game:
-If you liked the game and wish to share the love, feel free to use one of the UserBars (or make your own and submit it in [Discussions](https://github.com/EmeraldVoid/Pokemon-TestFlight/discussions))
+
+If you enjoyed the game and want to show your support, feel free to use one of our UserBars — or create your own and share it in the [Discussions](https://github.com/EmeraldVoid/Pokemon-TestFlight/discussions)!
+
 
 Preview:
 
