@@ -42,7 +42,7 @@ Your dream Pokémon adventure is about to begin! With a pair of running shoes, s
 
 After receiving your first Pokémon from the esteemed **Professor [NAME]**, you learn about an ambitious new venture—**Battle Tower**, a colossal skyscraper rising from the mysterious **Battle Island.**
 
-Developed by the powerful conglomerate Pokételion Group, Battle Tower replaces the traditional Gym system. Instead of traveling town to town, trainers now climb the tower, facing all eight Gym Leaders, the Elite Four, and finally the Champion, all under one roof. Is it about saving space? Maximizing profits? Or creating the ultimate training gauntlet? The truth is anyone's guess.
+Developed by the powerful conglomerate **Pokételion Group**, ***Battle Tower*** replaces the traditional Gym system. Instead of traveling town to town, trainers now climb the tower, facing all eight Gym Leaders, the Elite Four, and finally the Champion, all under one roof. Is it about saving space? Maximizing profits? Or creating the ultimate training gauntlet? The truth is anyone's guess.
 
 Professor [NAME] has been personally invited to Battle Island by Pokételion Group’s enigmatic CEO. Seeing potential in you, the professor invites you to join him and take on the Battle Tower challenge.
 
