@@ -88,7 +88,7 @@ This game also serves as a **proof of concept and learning project**, as the dev
 2. Unzip the game folder.
 3. Open the folder and run `Game.exe`.
 
-📝 _No installation of RPG Maker XP or Pokémon Essentials is required—everything is bundled with the game._
+📝 _No installation of RPG Maker XP, PSDK, Pokémon Studio or Pokémon Essentials is required—everything is bundled with the game._
 
 <br>
 
