@@ -27,10 +27,11 @@
 - [I. About Pokémon TestFlight](#about-pokémon-testflight)
 - [II. Minimum Recommended Specs](#minimum-recommended-specs)
 - [III. How to Install](#how-to-install)
-- [IV. FAQ's](#faqs)
-- [V. Credits](#credits)
-- [VI. Support the Game](#support-the-game)
-- [VII. Disclaimer](#disclaimer)
+- [IV. Features](#features)
+- [V. FAQ's](#faqs)
+- [VI. Credits](#credits)
+- [VII. Support the Game](#support-the-game)
+- [VIII. Disclaimer](#disclaimer)
 
 <br>
 
@@ -89,6 +90,18 @@ This game also serves as a **proof of concept and learning project**, as the dev
 3. Open the folder and run `Game.exe`.
 
 📝 _No installation of RPG Maker XP, PSDK, Pokémon Studio or Pokémon Essentials is required—everything is bundled with the game._
+
+<br>
+
+# Features
+
+* **Increased Level Cap**: Train your Pokémon up to level 200 (previously capped at 100).
+* **Expanded Pokédex**: Includes **[NUMBER]** Pokémon from across all generations.
+* **New Challenges**: Face off against brand-new Gym Leaders and an original Elite Four lineup.
+* **Pokémon Mart System**: Purchase a variety of Pokémon directly from in-game shops.
+* **Endgame Content**: Extensive post-game activities to keep the adventure going.
+* **Battle-Focused Gameplay**: Designed as a battle simulator-style experience for competitive and casual play.
+
 
 <br>
 
