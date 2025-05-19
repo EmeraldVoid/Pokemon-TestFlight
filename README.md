@@ -20,8 +20,6 @@
 
 <br>
 
-[![GitHub Pokémon Studio](https://img.shields.io/badge/Powered_by-Pokémon_Studio-6562f8?style=flat&logo=github&labelColor=1d1c22)](https://github.com/PokemonWorkshop/PokemonStudio) [![RPG Maker XP](https://img.shields.io/badge/Powered_by-RMXP-fc9400?style=flat&logo=github&labelColor=1d1c22)](https://github.com/PokemonWorkshop/PokemonStudio)
-
 ### Contents:
 
 - [I. About Pokémon TestFlight](#about-pokémon-testflight)
@@ -89,26 +87,37 @@ This game also serves as a **proof of concept and learning project**, as the dev
 2. Unzip the game folder.
 3. Open the folder and run `Game.exe`.
 
-📝 _No installation of RPG Maker XP, PSDK, Pokémon Studio or Pokémon Essentials is required—everything is bundled with the game._
+> ⚠️ _No installation of RPG Maker XP, PSDK, Pokémon Studio or Pokémon Essentials is required—everything is bundled with the game._
 
 <br>
 
 # Features
 
 * **Increased Level Cap**: Train your Pokémon up to level 200 (previously capped at 100).
+  * > *This will require adding more moves (Bothh through leveling and in the PSDK database), Thiis may be a feture that gets put on the back burner until I can iincrease thhe movepool.*
 * **Expanded Pokédex**: Includes **[NUMBER]** Pokémon from across all generations.
 * **New Challenges**: Face off against brand-new Gym Leaders and an original Elite Four lineup.
 * **Pokémon Mart System**: Purchase a variety of Pokémon directly from in-game shops.
 * **Endgame Content**: Extensive post-game activities to keep the adventure going.
 * **Battle-Focused Gameplay**: Designed as a battle simulator-style experience for competitive and casual play.
-
+* **Nuzlocke Mode:** Add extra difficulty if you're up to the challenge. Increased AI, higher levels and less money from trainer battles.
+* ****
+* ****
+* ****
+* ****
+* ****
+* ****
+* ****
+* ****
+* ****
+* ****
 
 <br>
 
 # FAQ
 
 ### Q: What is Pokémon TestFlight?  
-**A:** A fan-made Pokémon game focused on open-world exploration and experimentation, built with Pokémon Essentials and PSDK.
+**A:** A fan-made Pokémon game focused on open-world exploration and experimentation, built with PSDK/Studio.
 
 ### Q: Is it free to play?  
 **A:** Yes! Pokémon TestFlight is 100% free.
@@ -117,16 +126,18 @@ This game also serves as a **proof of concept and learning project**, as the dev
 **A:** [Coming Soon]
 
 ### Q: What region is the game set in?  
-**A:** [Coming Soon]
+**A:** Pokemon TestFlight takes place int eh **[X0X0 Reggion]**
 
 ### Q: How long is the main storyline?  
-**A:** [Coming Soon]
+**A:** There really isn'y a story for Test Flight. The main objective of the game is to conqurer the Battle Tower and become the Champion.
 
 ### Q: How do I install the game?  
 **A:** Just download the latest release, unzip the folder, and run `Game.exe`.
 
 ### Q: What platforms can I play this on?  
 **A:** Windows (natively) and Mac (using Wine or similar tools).
+
+> ⚠️ **Note:** I do not use a Mac so there may be easier ways to do this.
 
 ### Q: Do I need to install RPG Maker or Pokémon Essentials separately?  
 **A:** Nope! Everything you need is bundled inside the game folder.
