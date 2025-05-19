@@ -1,0 +1,42 @@
+name: Update Project Status Badge
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch: # manual trigger
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set status message
+        run: echo "On Track" > status.txt
+      
+      - name: Create badge SVG
+        run: |
+          STATUS=$(cat status.txt)
+          COLOR="brightgreen"
+          if [[ "$STATUS" == "Delayed" ]]; then
+            COLOR="yellow"
+          elif [[ "$STATUS" == "Off Track" ]]; then
+            COLOR="red"
+          fi
+          cat <<EOF > project-status.svg
+          <svg xmlns="http://www.w3.org/2000/svg" width="150" height="20">
+            <rect width="150" height="20" fill="#555"/>
+            <rect x="70" width="80" height="20" fill="$COLOR"/>
+            <text x="35" y="14" fill="#fff" font-family="Verdana" font-size="11">Project Status</text>
+            <text x="110" y="14" fill="#fff" font-family="Verdana" font-size="11">$STATUS</text>
+          </svg>
+          EOF
+      
+      - name: Commit and push badge
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add project-status.svg
+          git commit -m "Update project status badge to $STATUS" || echo "No changes to commit"
+          git push
