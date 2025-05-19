@@ -20,6 +20,10 @@
 
 <br>
 
+![Project Status](./project-status.svg)
+
+<br>
+
 ### Contents:
 
 - [I. About Pokémon TestFlight](#about-pokémon-testflight)
