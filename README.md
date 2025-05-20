@@ -34,6 +34,12 @@
 
 <br>
 
+| Project Status |
+|--------------------|
+| [![Status: - ON SCHEDULE](https://img.shields.io/badge/Status%3A-On_Schedule-7ED321)](https://github.com/users/EmeraldVoid/projects/2) - *This project is on track with no risks*    |
+
+<br>
+
 # About Pokémon TestFlight
 
 **Pokémon TestFlight** is a fangame created by **Emerald_Void** using **Pokémon Essentials** and **PSDK**.
