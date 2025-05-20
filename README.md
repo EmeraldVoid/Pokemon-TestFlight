@@ -26,10 +26,11 @@
 - [II. Minimum Recommended Specs](#minimum-recommended-specs)
 - [III. How to Install](#how-to-install)
 - [IV. Features](#features)
-- [V. FAQ's](#faqs)
-- [VI. Credits](#credits)
-- [VII. Support the Game](#support-the-game)
-- [VIII. Disclaimer](#disclaimer)
+- [V. Screenshots](#screenshots)
+- [VI. FAQ's](#faqs)
+- [VII. Credits](#credits)
+- [VIII. Support the Game](#support-the-game)
+- [IX. Disclaimer](#disclaimer)
 
 <br>
 
@@ -111,6 +112,15 @@ This game also serves as a **proof of concept and learning project**, as the dev
 * ****
 * ****
 * ****
+
+<br>
+
+## Screenshots
+
+<details open>
+    <summary>Show</summary>
+   No Screenshots Yet.
+</details>
 
 <br>
 
