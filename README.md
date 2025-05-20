@@ -36,7 +36,7 @@
 
 | Project Status |
 |--------------------|
-| [![Status: - ON SCHEDULE](https://img.shields.io/badge/Status%3A-On_Schedule-7ED321)](https://github.com/users/EmeraldVoid/projects/2) - *This project is on track with no risks*    |
+| [![Status: - ON SCHEDULE](https://img.shields.io/badge/Status%3A-On_Schedule-7ED321)](https://github.com/users/EmeraldVoid/projects/2)        / *This project is on track with no risks*    |
 
 <br>
 
