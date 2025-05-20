@@ -34,9 +34,19 @@
 
 <br>
 
-| Project Status |
-|--------------------|
-| [![Status: - ON SCHEDULE](https://img.shields.io/badge/Status%3A-On_Schedule-7ED321)](https://github.com/users/EmeraldVoid/projects/2)        / *This project is on track with no risks*    |
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th colspan="2" align="center">Project Status</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/users/EmeraldVoid/projects/2">
+        <img src="https://img.shields.io/badge/Status%3A-On_Schedule-7ED321" alt="Status: ON SCHEDULE">
+      </a>
+    </td>
+    <td><em>This project is on track with no risks</em></td>
+  </tr>
+</table>
 
 <br>
 
