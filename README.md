@@ -34,6 +34,7 @@
 
 <br>
 
+<p align="center">
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
     <th colspan="2" align="center">Project Status</th>
@@ -47,6 +48,7 @@
     <td><em>This project is on track with no risks</em></td>
   </tr>
 </table>
+</p>
 
 <br>
 
