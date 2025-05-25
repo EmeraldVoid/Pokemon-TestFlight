@@ -73,7 +73,9 @@ This game also serves as a **proof of concept and learning project**, as the dev
 
 <h3 align="center">You can find out more about the game on the <a href="https://emeraldvoid.github.io/Pokemon-TestFlight/index.html">Official Website.</h3></a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<div style="text-align: right;">
+  (<a href="#readme">Back to top</a>)
+</div>
 
 <br>
 
