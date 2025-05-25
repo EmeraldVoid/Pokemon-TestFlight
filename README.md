@@ -49,7 +49,6 @@
   </tr>
 </table>
 
-
 <br>
 
 # About Pokémon TestFlight
@@ -73,6 +72,8 @@ This game also serves as a **proof of concept and learning project**, as the dev
 > ⚠️ *Battle Tower, and Professor [NAME] are all placeholder names and may change as development progresses further.*
 
 <h3 align="center">You can find out more about the game on the <a href="https://emeraldvoid.github.io/Pokemon-TestFlight/index.html">Official Website.</h3></a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <br>
 
@@ -98,6 +99,8 @@ This game also serves as a **proof of concept and learning project**, as the dev
 
 *These specifications were pulled directly from the RPG Maker XP wesbite*
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <br>
 
 # How to Install
@@ -108,18 +111,22 @@ This game also serves as a **proof of concept and learning project**, as the dev
 
 > ⚠️ _No installation of RPG Maker XP, PSDK, Pokémon Studio or Pokémon Essentials is required—everything is bundled with the game._
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <br>
 
 # Features
 
 * **Increased Level Cap**: Train your Pokémon up to level 200 (previously capped at 100).
   * > *This will require adding more moves (Bothh through leveling and in the PSDK database), Thiis may be a feture that gets put on the back burner until I can iincrease thhe movepool.*
-* **Expanded Pokédex**: Includes **[NUMBER]** Pokémon from across all generations.
+* **Expanded Pokédex**: Features **[NUMBER]** Pokémon from all generations, plus **[NUMBER]** original Fakémon.
 * **New Challenges**: Face off against brand-new Gym Leaders and an original Elite Four lineup.
 * **Pokémon Mart System**: Purchase a variety of Pokémon directly from in-game shops.
 * **Endgame Content**: Extensive post-game activities to keep the adventure going.
 * **Battle-Focused Gameplay**: Designed as a battle simulator-style experience for competitive and casual play.
 * **Nuzlocke Mode:** Add extra difficulty if you're up to the challenge. Increased AI, higher levels and less money from trainer battles.
+* **Expanded Move Pool:** Added **[NUMER]** new custom moves to diversify battle options.
+* **Expanded Ability Pool:** Introduced **[NUMER]** custom abilities to enhance Pokémon strategies.
 * ****
 * ****
 * ****
@@ -127,9 +134,8 @@ This game also serves as a **proof of concept and learning project**, as the dev
 * ****
 * ****
 * ****
-* ****
-* ****
-* ****
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <br>
 
@@ -139,6 +145,8 @@ This game also serves as a **proof of concept and learning project**, as the dev
     <summary>Show</summary>
    No Screenshots Yet.
 </details>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <br>
 
@@ -179,11 +187,15 @@ This game also serves as a **proof of concept and learning project**, as the dev
 ### Q: Who do I contact for help with the game?  
 **A:** Reach out via the [discussions](https://github.com/EmeraldVoid/Pokemon-TestFlight/discussions/categories/q-a) or file an [issue](https://github.com/EmeraldVoid/Pokemon-TestFlight/issues)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <br>
 
 # Credits
 
 The full credits are available [here](https://github.com/EmeraldVoid/Pokemon-TestFlight/blob/main/credits.md). Listing everything in this repo would’ve made it a bit too cluttered.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <br>
 
@@ -194,6 +206,8 @@ If you enjoyed the game and want to show your support, feel free to use one of o
 
 Preview:
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <br>
 
 # Disclaimer
@@ -202,4 +216,5 @@ Preview:
 Pokémon is © Nintendo, Game Freak, and The Pokémon Company.  
 No copyright infringement intended.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
