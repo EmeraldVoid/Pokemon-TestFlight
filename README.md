@@ -51,6 +51,17 @@
 
 <br>
 
+![GitHub stars](https://img.shields.io/github/stars/emeraldvoid/Pokemon-TestFlight?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/emeraldvoid/Pokemon-TestFlight?style=flat-square)
+![Latest release](https://img.shields.io/github/v/release/emeraldvoid/Pokemon-TestFlight?style=flat-square)
+![License](https://img.shields.io/github/license/emeraldvoid/Pokemon-TestFlight?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/emeraldvoid/Pokemon-TestFlight?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/emeraldvoid/Pokemon-TestFlight?style=flat-square)
+![Contributors](https://img.shields.io/github/contributors/emeraldvoid/Pokemon-TestFlight?style=flat-square)
+![Forks](https://img.shields.io/github/forks/emeraldvoid/Pokemon-TestFlight?style=flat-square)
+
+<br>
+
 # About Pokémon TestFlight
 
 **Pokémon TestFlight** is a fangame created by **Emerald_Void** using **Pokémon Essentials** and **PSDK**.
