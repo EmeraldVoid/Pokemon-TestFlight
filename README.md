@@ -124,8 +124,6 @@ This game also serves as a **proof of concept and learning project**, as the dev
 
 # Features
 
-* **Increased Level Cap**: Train your Pokémon up to level 200 (previously capped at 100).
-  * > *This will require adding more moves (Bothh through leveling and in the PSDK database), Thiis may be a feture that gets put on the back burner until I can iincrease thhe movepool.*
 * **Expanded Pokédex**: Features **[NUMBER]** Pokémon from all generations, plus **[NUMBER]** original Fakémon.
 * **New Challenges**: Face off against brand-new Gym Leaders and an original Elite Four lineup.
 * **Pokémon Mart System**: Purchase a variety of Pokémon directly from in-game shops.
