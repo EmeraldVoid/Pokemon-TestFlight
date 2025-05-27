@@ -85,11 +85,6 @@ This game also serves as a **proof of concept and learning project**, as the dev
 <h3 align="center">You can find out more about the game on the <a href="https://emeraldvoid.github.io/Pokemon-TestFlight/index.html">Official Website.</h3></a>
 
 
-<div style="text-align: right;">
-  (<a href="#readme">Back to top</a>)
-</div>
-
-
 <br>
 
 # Minimum Recommended Specs
@@ -114,10 +109,6 @@ This game also serves as a **proof of concept and learning project**, as the dev
 
 *These specifications were pulled directly from the RPG Maker XP wesbite*
 
-<div style="text-align: right;">
-  (<a href="#readme">Back to top</a>)
-</div>
-
 <br>
 
 # How to Install
@@ -128,9 +119,6 @@ This game also serves as a **proof of concept and learning project**, as the dev
 
 > ⚠️ _No installation of RPG Maker XP, PSDK, Pokémon Studio or Pokémon Essentials is required—everything is bundled with the game._
 
-<div style="text-align: right;">
-  (<a href="#readme">Back to top</a>)
-</div>
 
 <br>
 
@@ -154,9 +142,7 @@ This game also serves as a **proof of concept and learning project**, as the dev
 * ****
 * ****
 
-<div style="text-align: right;">
-  (<a href="#readme">Back to top</a>)
-</div>
+
 
 <br>
 
@@ -167,9 +153,6 @@ This game also serves as a **proof of concept and learning project**, as the dev
    No Screenshots Yet.
 </details>
 
-<div style="text-align: right;">
-  (<a href="#readme">Back to top</a>)
-</div>
 
 <br>
 
@@ -210,9 +193,7 @@ This game also serves as a **proof of concept and learning project**, as the dev
 ### Q: Who do I contact for help with the game?  
 **A:** Reach out via the [discussions](https://github.com/EmeraldVoid/Pokemon-TestFlight/discussions/categories/q-a) or file an [issue](https://github.com/EmeraldVoid/Pokemon-TestFlight/issues)
 
-<div style="text-align: right;">
-  (<a href="#readme">Back to top</a>)
-</div>
+
 
 <br>
 
@@ -220,9 +201,6 @@ This game also serves as a **proof of concept and learning project**, as the dev
 
 The full credits are available [here](https://github.com/EmeraldVoid/Pokemon-TestFlight/blob/main/credits.md). Listing everything in this repo would’ve made it a bit too cluttered.
 
-<div style="text-align: right;">
-  (<a href="#readme">Back to top</a>)
-</div>
 
 <br>
 
@@ -233,9 +211,6 @@ If you enjoyed the game and want to show your support, feel free to use one of o
 
 Preview:
 
-<div style="text-align: right;">
-  (<a href="#readme">Back to top</a>)
-</div>
 
 <br>
 
@@ -245,7 +220,5 @@ Preview:
 Pokémon is © Nintendo, Game Freak, and The Pokémon Company.  
 No copyright infringement intended.
 
-<div style="text-align: right;">
-  (<a href="#readme">Back to top</a>)
-</div>
+
 
