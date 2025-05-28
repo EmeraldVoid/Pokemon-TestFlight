@@ -8,3 +8,7 @@
 - Music by [Composer]  
 - Sprites by [Artist]  
 - Scripting Support: [Names]
+
+<br>
+
+- Badges created by icycatelf
