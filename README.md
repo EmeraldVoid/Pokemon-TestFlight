@@ -80,7 +80,8 @@ Adventure, mystery, and glory await—are you ready to climb?
 
 This game also serves as a **proof of concept and learning project**, as the developers explore and experiment with Pokémon Essentials and PSDK. It was built to test core mechanics and ideas for future, more expansive projects.
 
-> ⚠️ *Battle Tower, and Professor [NAME] are all placeholder names and may change as development progresses further.*
+> [!NOTE]
+> *Battle Tower, and Professor [NAME] are all placeholder names and may change as development progresses further.*
 
 <h3 align="center">You can find out more about the game on the <a href="https://emeraldvoid.github.io/Pokemon-TestFlight/index.html">Official Website.</h3></a>
 
@@ -107,7 +108,8 @@ This game also serves as a **proof of concept and learning project**, as the dev
 - **Storage:** At least 500 MB of available hard disk space
 - **Sound Card:** DirectSound-compatible sound card
 
-*These specifications were pulled directly from the RPG Maker XP wesbite*
+> [!NOTE]
+> *These specifications were pulled directly from the RPG Maker XP wesbite*
 
 <br>
 
@@ -117,7 +119,10 @@ This game also serves as a **proof of concept and learning project**, as the dev
 2. Unzip the game folder.
 3. Open the folder and run `Game.exe`.
 
-> ⚠️ _No installation of RPG Maker XP, PSDK, Pokémon Studio or Pokémon Essentials is required—everything is bundled with the game._
+<br>
+
+> [!IMPORTANT]
+> _No installation of RPG Maker XP, PSDK, Pokémon Studio or Pokémon Essentials is required—everything is bundled with the game._
 
 
 <br>
@@ -177,7 +182,12 @@ This game also serves as a **proof of concept and learning project**, as the dev
 ### Q: What platforms can I play this on?  
 **A:** Windows (natively) and Mac (using Wine or similar tools).
 
-> ⚠️ **Note:** I do not use a Mac so there may be easier ways to do this.
+<br>
+
+> [!NOTE]
+> **I do not use a Mac so there may be easier ways to do this.**
+
+<br>
 
 ### Q: Do I need to install RPG Maker or Pokémon Essentials separately?  
 **A:** Nope! Everything you need is bundled inside the game folder.
@@ -214,7 +224,8 @@ Preview:
 
 # Disclaimer
 
-> ⚠️ This is a **non-profit fan project**, created by fans for fans.  
+> [!IMPORTANT]
+> This is a **non-profit fan project**, created by fans for fans.  
 Pokémon is © Nintendo, Game Freak, and The Pokémon Company.  
 No copyright infringement intended.
 
