@@ -10,7 +10,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
-  github: 'https://github.com',
+  github: 'https://github.com/emeraldvoid/Pokemon-TestFlight',
   locale: 'en-US',
   // set to true if you want a navbar fixed to the top
   stickyNav: false,
