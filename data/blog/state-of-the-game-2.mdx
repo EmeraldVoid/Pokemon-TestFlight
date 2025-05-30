@@ -1,0 +1,71 @@
+import Image from 'next/image';
+
+---
+title: 'State of the Game #2'
+date: '2025-05-01'
+lastmod: '2025-05-01'
+tags: ['State of the Game', 'development-blog',]
+draft: false
+summary: 'A behind-the-scenes look at how I’m building a flexible testbed to speed up development and experimentation in Pokémon TestFlight. From automated battles to item scripts and dex expansion—this update dives into the tools powering rapid iteration.'
+images: ['/static/images/new-blog.png']
+---
+
+<div align="center">
+  <img src="https://i.imgur.com/X1N3ADz.png" alt="TestFlight Logo" />
+</div>
+
+<div align="center">
+  <p>
+    A fan-made Pokémon game focused on open-world exploration and experimentation, built with Pokémon Essentials and PSDK.
+  </p>
+  <p>
+    <a href="https://github.com/EmeraldVoid/Pokemon-TestFlight/releases"><strong>Download Latest Release »</strong></a>
+    <br />
+    <a href="https://github.com/EmeraldVoid/Pokemon-TestFlight/issues">Report a Bug</a>
+    ·
+    <a href="https://github.com/EmeraldVoid/Pokemon-TestFlight?tab=readme-ov-file#faq">FAQ</a>
+    ·
+    <a href="https://emeraldvoid.github.io/Pokemon-TestFlight/index.html">Website</a>
+  </p>
+</div>
+
+---
+
+### Development Update: Building a Testbed for Creativity
+
+Lately, I've been diving deep into both RPG Maker XP and PSDK, setting up a flexible testing environment to help speed up iteration. This includes scripting item and Pokémon giveaways, setting up battle tests, and expanding the Pokédex to accommodate non-native entries. Here's a look at what I've been working on:
+
+---
+
+![Repeatable Battle Setup](https://github.com/user-attachments/assets/ae389369-0251-43fd-b313-72f86144d765)
+
+A simple, repeatable battle setup—perfect for testing different Pokémon, AI behaviors, and team configurations.
+
+---
+
+![Kimono Girl Suzu](https://github.com/user-attachments/assets/eb2c4fab-5a50-4e3d-9352-5a7fea337718)
+
+Meet **Kimono Girl Suzu**, one of my core testing NPCs. Her team is easily adjustable for testing different level ranges, AI difficulty, and move variety.
+
+---
+
+![Carlos Item/NPC Test](https://github.com/user-attachments/assets/500c867e-a95c-4ac8-925e-a8f720152815)
+
+Suzu is joined by **Carlos**, a utility NPC who hands out items and Pokémon. He's great for testing give-item and give-Pokémon commands, as well as verifying sound and timing.
+
+---
+
+![Item and Pokémon Testing](https://github.com/user-attachments/assets/c576d320-e2ad-4f1d-84e6-867cacf694c2)
+
+Here, Carlos gives the player **99 Awakenings**, and two level 100 Pokémon: **Incineroar** and **Corviknight**. Adding Corviknight required expanding the dex, which was a great chance to test data management, move creation, and ability assignments.
+
+---
+
+This testbed environment will be a huge help as the project evolves, letting me quickly prototype ideas, balance teams, and squash bugs more efficiently.
+
+---
+
+### Archive:
+
+- [Exploring New Tools for the Project](https://github.com/EmeraldVoid/Pokemon-TestFlight/discussions/1)
+- [Building a Testbed for Creativity](https://github.com/EmeraldVoid/Pokemon-TestFlight/discussions/2)
