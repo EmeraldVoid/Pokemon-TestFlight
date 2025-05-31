@@ -1,0 +1,90 @@
+---
+title: 'State of the Game #6'
+date: '2025-05-18'
+lastmod: '2025-05-18'
+tags: ['State of the Game', 'development-blog',]
+draft: false
+summary: 'Development continues on Pokémon TestFlight, with a focus on tile integration, boss design, and narrative polish. Meet Executive Thorn—Battle Island’s calculating Champion—and get a glimpse at the systems that bring the tower to life.'
+images: ['/static/images/new-blog.png']
+---
+
+<div align="center">
+  <img src="https://i.imgur.com/X1N3ADz.png" alt="TestFlight Logo" />
+</div>
+
+<div align="center">
+  <p>
+    A fan-made Pokémon game focused on open-world exploration and experimentation, built with Pokémon Essentials and PSDK.
+  </p>
+  <p>
+    <a href="https://github.com/EmeraldVoid/Pokemon-TestFlight/releases"><strong>Download Latest Release »</strong></a>
+    <br />
+    <a href="https://github.com/EmeraldVoid/Pokemon-TestFlight/issues">Report a Bug</a>
+    ·
+    <a href="https://github.com/EmeraldVoid/Pokemon-TestFlight?tab=readme-ov-file#faq">FAQ</a>
+    ·
+    <a href="https://emeraldvoid.github.io/Pokemon-TestFlight/index.html">Website</a>
+  </p>
+</div>
+
+### Game Development: **Testing the Waters, One Tile at a Time**
+
+
+
+**Development Phase:** Early Development
+
+> [!NOTE]
+> I’m currently in early development — focused on prototyping, planning, and learning PSDK.
+
+
+
+Progress on **Pokémon TestFlight** continues at a steady pace. While I haven’t yet built a full playable demo, a lot of foundational work is happening behind the scenes — especially in the database and testing space. I’m still experimenting with features, mechanics, and how best to use PSDK. It’s been a mix of discovery and trial-and-error, but I’m enjoying the process. Here's a breakdown of what I've been working on:
+
+
+
+### 🔹 Mapping
+
+I’ve been iterating on the **[test map](https://github.com/EmeraldVoid/Pokemon-TestFlight/discussions/5#discussioncomment-13139569)** I shared previously. Mapping with **Tiled** through PSDK is still a little confusing at times, but the flexibility is fantastic. The ability to mix and match tilesets is incredibly powerful — and honestly, mapping has become one of the most enjoyable parts of development so far.
+
+
+
+### 🔹 Pokémon
+
+I’ve begun expanding the Pokédex by adding both **Fakemon** and **regional variants** that aren’t included by default in PSDK (like **Galarian Farfetch’d** and **Galarian Slowpoke**). Tools like **Bulbapedia** have been indispensable — basically my survival guide. It's time-consuming to manually enter stats, abilities, and evolutions, but the reward of seeing them function in-game is totally worth it. Once a new Pokémon is added, I create a test event in the HUB to receive and battle with it, ensuring everything works properly.
+
+
+
+### 🔹 Moves & Abilities
+
+I haven’t added any new moves or abilities yet — this part is a bit outside my current skill set. I plan to watch some tutorials soon and take a stab at adding two original moves and two from the mainline games that aren’t pre-installed in PSDK. Same goes for abilities. This will be a learning curve, but I’m excited to give it a shot.
+
+
+
+### 🔹 Items
+
+At this stage, I haven’t added any custom items. PSDK seems to include most of what I need already, so I haven’t prioritized this yet. That said, I’ll revisit items later when the core systems are more fleshed out.
+
+
+
+### 🔹 Trainers & NPCs
+
+This has probably been the most **fun** part of development so far. I’ve created tons of trainers and NPCs — everything from Gym Leaders to meme characters. Red, Blue, Elite Four members, and more have been recreated for testing and fun. It’s a great creative outlet, and helps populate my test environments while giving me scripting practice.
+
+
+
+### ⚙️ Using the Technical Demo — A Copout?
+
+I’ve been debating whether to build everything from scratch or **build on top of the PSDK technical demo**. I really like the demo as a learning tool and potential base — especially since it already has tons of examples I can reference and modify. While I plan to replace most of the maps (especially in the Tower), I’m not sure it’s worth redoing everything from zero *just for the experience*. For now, I’m leaning toward using the demo as a base and gradually replacing/expanding from there.
+
+
+
+### ❌ No Playable Demo… Yet
+
+I’m not quite at the point of having a playable build, but I’m trying. Right now, development is focused on:
+
+* Expanding the database
+* Creating test events
+* Learning PSDK's systems more deeply
+
+It may not look flashy yet, but the groundwork is slowly being laid. I appreciate your interest and patience!
+
