@@ -11,7 +11,7 @@
   ·
   <a href="#faq">FAQ</a>
   ·
-  <a href="https://emeraldvoid.github.io/Pokemon-TestFlight/index.html">Website</a>
+  <a href="https://pokemon-test-flight.vercel.app/">Website</a>
   ·
   <a href="https://github.com/EmeraldVoid/Pokemon-TestFlight/discussions/categories/announcements">Announcements</a>
 </p>

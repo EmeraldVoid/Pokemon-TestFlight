@@ -8,10 +8,6 @@
 - Pokémon Essentials by Maruno & contributors  
  
 
-
-## Special Thanks
-
-
 ## Graphics
 
 ### Tilesets
@@ -35,4 +31,4 @@ Please support the official games!
 
 
 
-- Badges created by icycatelf
+- Badges created by [gray-hero](https://www.deviantart.com/gray-hero)
