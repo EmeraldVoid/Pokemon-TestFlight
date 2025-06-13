@@ -1,0 +1,91 @@
+---
+title: 'Pokémon TestFlight Technical Demo (Proof of Concept) Released!'
+date: '2025-04-28' 
+lastmod: '2025-04-28'
+tags: ['State of the Game', 'development-blog',]
+draft: true
+summary: 'Get your hands on the first playable build of Pokémon TestFlight, a fan-made Pokémon game focused on open-world exploration and experimentation.'
+images: ['/static/images/new-blog.png']
+---
+
+
+
+<div align="center">
+  <img src="https://i.imgur.com/LwXv2hI.png" alt="proof_of_concept_logo" />
+</div>
+
+<div align="center">
+  <p>
+    A fan-made Pokémon game focused on open-world exploration and experimentation, built with Pokémon Essentials and PSDK.
+  </p>
+  <p>
+    <a href="https://github.com/EmeraldVoid/Pokemon-TestFlight/releases"><strong>Download Latest Release »</strong></a>
+    <br />
+    <a href="https://github.com/EmeraldVoid/Pokemon-TestFlight/issues">Report a Bug</a>
+    ·
+    <a href="https://github.com/EmeraldVoid/Pokemon-TestFlight?tab=readme-ov-file#faq">FAQ</a>
+    ·
+    <a href="https://pokemon-test-flight.vercel.app">Website</a>
+  </p>
+</div>
+
+
+# Demo Release – Proof of Concept Build
+
+The time has finally come! While this isn’t the Alpha Build just yet, it *is* the first playable version of **Pokémon TestFlight**—a Proof of Concept designed to gather early feedback. Whether you're playtesting or just curious, you're welcome to [download and try it out](https://github.com/EmeraldVoid/Pokemon-TestFlight/releases)!
+
+---
+
+## What’s in the Demo?
+
+This demo is intentionally bare-bones, created to test core mechanics and gather impressions. I initially shared it with a few friends for feedback, and now it's available to the public.
+
+### Features:
+
+* **Two Gym Leaders**: Face off against **Stratus** and **Coalton**, including all their minions.
+* **Random Starter Teams**:
+
+  * Start with 6 random Level 13 Pokémon and challenge Stratus and his team.
+  * Afterward, talk to a nearby NPC to get a new team of Level 17 Pokémon and take on Coalton and the Bedrock Crew.
+* **Basic Facilities**: A shop and Pokémon Center are available (currently placeholder NPCs—these will get proper storefronts later).
+* **Bonus Boss Fight**: After defeating both Gym Leaders, you can challenge an optional boss fight using [Zøzo’s Pokémon Boss System](https://gitlab.com/Zodiarche/cc-pokemon-boss-system). It’s a fun extra, and I may include more of these battles in the post-game! (More on that in a later post)
+
+This build is running on the PSDK shell with a few light modifications. I'm currently using many of the default maps and assets to focus on learning the engine and building a solid foundation.
+
+---
+
+## What’s Next?
+
+Here are a few features I’m planning for the next update:
+
+* [ ] Add an [intro cutscene with the Professor](https://github.com/EmeraldVoid/Pokemon-TestFlight/issues/29)
+* [ ] Rebalance teams as needed
+* [ ] Create dedicated gym battle maps
+* [ ] Implement [GUI upgrades](https://github.com/EmeraldVoid/Pokemon-TestFlight/issues/35)
+
+---
+
+## Found a Bug?
+
+If you come across any bugs, glitches, typos, or just have suggestions, please feel free to open an [issue on GitHub](https://github.com/EmeraldVoid/Pokemon-TestFlight/issues). Your feedback is extremely valuable at this stage!
+
+Thanks for playing and testing—this is just the beginning, and I’m excited to keep building *Pokémon TestFlight* with your help.
+
+---
+
+> [!IMPORTANT]
+> ⚠️ **Pokémon TestFlight** is a fan-made project created purely for fun and educational purposes. I do not own Pokémon or any related trademarks. All rights belong to **Nintendo**, **Game Freak**, and **The Pokémon Company**. No money is being made from this project. ⚠️
+
+
+# Download
+
+import { Box, Button } from '@material-ui/core';
+
+<Box display="flex" justifyContent="center" gap={2}>
+  <Button variant="contained" color="primary" href="https://github.com/EmeraldVoid/Pokemon-TestFlight/releases" target="_blank">
+    Download the Proof of Concept Demo
+  </Button>
+  <Button variant="contained" color="primary" href="https://github.com/EmeraldVoid/Pokemon-TestFlight/discussions/43" target="_blank">
+    Discuss this Post
+  </Button>
+</Box>
