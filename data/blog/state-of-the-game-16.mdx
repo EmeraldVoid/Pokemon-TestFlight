@@ -1,0 +1,135 @@
+---
+title: 'State of the Game #16'
+date: '2025-06-15'
+lastmod: '2025-06-15'
+tags: ['State of the Game', 'development-blog',]
+draft: false
+summary: 'Mega update for the State of the Game for Pokémon TestFlight'
+images: ['/static/images/new-blog.png']
+---
+
+<div align="center">
+  <img src="https://i.imgur.com/X1N3ADz.png" alt="TestFlight Logo" />
+</div>
+
+<div align="center">
+  <p>
+    A fan-made Pokémon game focused on open-world exploration and experimentation, built with Pokémon Essentials and PSDK.
+  </p>
+  <p>
+    <a href="https://github.com/EmeraldVoid/Pokemon-TestFlight/releases"><strong>Download Latest Release »</strong></a>
+    <br />
+    <a href="https://github.com/EmeraldVoid/Pokemon-TestFlight/issues">Report a Bug</a>
+    ·
+    <a href="https://github.com/EmeraldVoid/Pokemon-TestFlight?tab=readme-ov-file#faq">FAQ</a>
+    ·
+    <a href="">Website</a>
+  </p>
+</div>
+
+Absolutely! Here's a longer, blog-post-ready version of your update with expanded sections, smoother flow, and a more polished tone, while staying true to your voice:
+
+---
+
+# Welcome to the *Mega Update* — State of the Game
+
+Hey Trainers! Welcome to a special *"Mega Update"* edition of **State of the Game** for *Pokémon TestFlight*. This post is a big one—we're compiling **every issue** that has received progress, polish, or discussion behind the scenes. All updates listed here are tied directly to the upcoming **0.1a Alpha Release**, so if you’ve been following development, you’re in the right place.
+
+Let’s jump right into it!
+
+---
+
+## Alpha Build Out Now!
+
+That’s right—our very first **playable build** is officially live!
+
+In case you missed the announcement, the initial *proof-of-concept* version of Pokémon TestFlight is now available for download and testing. You can grab it right here:
+
+[**Download the Alpha Build**](https://github.com/EmeraldVoid/Pokemon-TestFlight/releases)
+
+This early version includes the basic systems, intro cutscene, test battles, and more. While it’s not fully representative of the final experience, it’s a critical first step—and your feedback will help shape everything going forward.
+
+---
+
+## Intro Cutscene
+
+**[Issue #29](https://github.com/EmeraldVoid/Pokemon-TestFlight/issues/29)**
+
+A fully functional intro cutscene has been implemented in the current [pre-release build](https://github.com/EmeraldVoid/Pokemon-TestFlight/releases/tag/v0.0-alpha.1). Please note that this version is **temporary**—a placeholder designed to lay the groundwork for future narrative development.
+
+Right now, its main job is to handle some behind-the-scenes setup when the player begins a new game. It also offers a smoother introduction to the world than just dropping players into the overworld without context. Even though it’s not final, the cutscene helps establish tone and flow, and it sets the stage for the early-game loop.
+
+As the story and setting evolve, expect this cutscene to be refined and possibly reimagined entirely.
+
+---
+
+## Fakémon Batch 1
+
+**[Issue #24](https://github.com/EmeraldVoid/Pokemon-TestFlight/issues/24)**
+
+Our brand-new Fakémon starters are designed, implemented, and just waiting to be tested in the wild. However, they haven't yet gone through any formal **playtesting**.
+
+These Pokémon are expected to appear in the next pre-release build, where we’ll be focusing on balance, evolution pacing, and learnsets. Once they’re live, we’ll be actively seeking feedback on how they play—so keep an eye out!
+
+---
+
+## Trainers Batch 1
+
+**[Issue #30](https://github.com/EmeraldVoid/Pokemon-TestFlight/issues/30)**
+
+No new progress on this front just yet. I've been focused on other systems and foundational content, so this issue hasn’t been touched in the current cycle.
+
+That said, it’s definitely **not forgotten**. Trainer teams are a big part of what brings the world to life, and once the battle structure and starter options are solid, I'll be revisiting this with a sharper focus. Updates to follow in a future release!
+
+---
+
+## Gym Leader Map Design
+
+**[Issue #27](https://github.com/EmeraldVoid/Pokemon-TestFlight/issues/27)**
+
+This has been one of the tougher creative challenges of development so far.
+
+The goal is to create battle rooms that combine the **elevated structure of a Battle Tower** with the **visual and thematic personality** you'd expect from traditional Pokémon gyms. That balance is difficult to strike: how do you make something feel like a gym without using a city or overworld context?
+
+Adding to the challenge is **tileset selection**—which is difficult to lock in until I’ve committed to a solid design vision. Without a firm idea, the options just feel overwhelming.
+
+To be honest, I’ve been dealing with a bit of creative burnout and decision paralysis in this area. Mapping has never been my strongest suit, even after studying tutorials on tools like *Tiled*. The execution side is fine—it's the visual direction that's slowing things down.
+
+This week, I’m setting aside time to explore a few mockups and experiments in Tiled. Hopefully, something clicks.
+
+---
+
+## Gym Leaders 1 & 2
+
+**[Leader 1 – Issue #12](https://github.com/EmeraldVoid/Pokemon-TestFlight/issues/12)**
+**[Leader 2 – Issue #13](https://github.com/EmeraldVoid/Pokemon-TestFlight/issues/13)**
+
+Initial playtesting with the first two Gym Leaders has gone well—everything is technically functioning as planned, and the battles are stable.
+
+The real difficulty lies in **predicting the player’s party and level progression**. Some players may power-level with Rare Candies, others might find optimal grind spots, and some might take a more casual path. With so many variables, balancing the difficulty curve becomes more complex.
+
+To help with this, I’ve modified the intro event to give players:
+
+* A **core team of 6 Pokémon**
+* An additional **16 randomly selected Pokémon**
+
+This setup should give playtesters a variety of options to approach early battles. It also creates more data for me to analyze how difficulty scales in the wild.
+
+Still pending: I need to finish the **map design for the Gym Leader’s room**, which ties back into the earlier mapping challenge discussed above.
+
+---
+
+## Final Thoughts
+
+Thanks for reading this mega-sized dev update! Development is moving steadily forward, even if some areas are trickier than others. This blog post is part of my ongoing effort to be transparent about the process—sharing not just the victories, but also the challenges.
+
+If you’ve tried the pre-release build, your feedback means everything right now. Please feel free to leave comments on GitHub or message me directly.
+
+Until next time, stay curious and keep training!
+
+—
+
+**– Emerald\_Void**
+*Lead designer & developer of Pokémon TestFlight*
+🌐 [TestFlight Website](https://pokemon-test-flight.vercel.app/)
+💻 [GitHub](https://github.com/EmeraldVoid)
