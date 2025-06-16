@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'TestFlight Development Blog',
   author: 'Emerald_Void',
   headerTitle: 'Pokémon TestFlight Blog',
-  description: 'A blog for the Pokémon fangame TestFlight',
+  description: 'A blog for the Pokémon fangame TestFlight. Be sure and check the Projects tab for more information.',
   language: 'en-us',
   theme: 'dark', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
