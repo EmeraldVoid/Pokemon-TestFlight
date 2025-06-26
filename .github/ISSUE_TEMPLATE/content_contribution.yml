@@ -34,12 +34,13 @@ body:
       description: Are there license terms? How should credit be given?
       placeholder: Example: Creative Commons BY-SA, or "Credit me as ExampleUser."
 
-  - type: textarea
+   - type: textarea
     id: link
     attributes:
       label: 🔗 Link to Asset (Optional)
       description: Link to a file, demo, sample, or image preview.
-      placeholder: Example: Google Drive, Dropbox, etc.
+      placeholder: Example: https://drive.google.com/...
+
 
   - type: checkboxes
     id: checklist

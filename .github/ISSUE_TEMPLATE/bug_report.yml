@@ -29,7 +29,6 @@ body:
         1. Go to '...'
         2. Interact with '...'
         3. Observe the bug '...'
-      render: bash
     validations:
       required: true
 
@@ -92,4 +91,9 @@ body:
       label: ✅ Checklist Before Submitting
       description: Please verify all of the following.
       options:
-        - label: I am using the latest vers
+        - label: I am using the latest version of the game.
+          required: true
+        - label: I have checked that this bug hasn’t been reported yet.
+          required: true
+        - label: I have filled out this form completely.
+          required: true
