@@ -1,0 +1,48 @@
+name: ✨ Feature Request
+description: Suggest a new feature, mechanic, improvement, or content for Pokémon TestFlight.
+title: "[Feature] "
+labels: ["enhancement"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## ✨ Feature Request — Pokémon TestFlight
+        Thank you for helping improve the game! Please describe the feature, mechanic, or content you'd like to see.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 📄 Description of the Feature
+      description: What feature would you like added? Be as detailed as possible.
+      placeholder: I'd like to suggest...
+    validations:
+      required: true
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: 🎯 Why This Feature?
+      description: Why should this feature be added? What problem does it solve or what does it improve?
+      placeholder: This would improve the game because...
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: 🔄 Alternatives (Optional)
+      description: Are there any other solutions or features you've considered?
+      placeholder: Alternative ideas could be...
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: ✅ Checklist Before Submitting
+      description: Please confirm the following.
+      options:
+        - label: I have checked if this feature has already been suggested.
+          required: true
+        - label: I have provided a clear and detailed description.
+          required: true
