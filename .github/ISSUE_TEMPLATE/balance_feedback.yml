@@ -1,0 +1,46 @@
+name: 📋 Balance Feedback
+description: Report issues or suggestions related to game balance.
+title: "[Balance] "
+labels: ["balance", "feedback"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 📋 Balance Feedback — Pokémon TestFlight
+        Report any concerns about Pokémon, moves, bosses, trainers, or anything else that feels too weak, too strong, or unfair.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 📄 Description of the Balance Issue
+      description: Explain what feels unbalanced and why.
+      placeholder: Example: This Gym Leader feels overtuned because...
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: 🎯 Where/When This Happens
+      description: When in the game does this issue occur? Is it a specific battle, move, or part of progression?
+      placeholder: Example: Floor 4, Gym Leader, or move X used by Pokémon Y.
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 💡 Suggested Change (Optional)
+      description: If you have a recommendation, describe how you'd rebalance it.
+      placeholder: Example: Reduce this move’s power from 120 to 100.
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: ✅ Checklist
+      description: Please confirm before submitting.
+      options:
+        - label: This is not a bug report.
+          required: true
+        - label: I’ve checked if this balance issue has already been reported.
+          required: true

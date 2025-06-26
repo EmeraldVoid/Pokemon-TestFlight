@@ -1,0 +1,53 @@
+name: 📦 Content Contribution Proposal
+description: Propose to contribute assets, sprites, music, maps, or other content to Pokémon TestFlight.
+title: "[Contribution] "
+labels: ["contribution", "assets"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 📦 Content Contribution Proposal — Pokémon TestFlight
+        Want to contribute something to the project? Fill out this form with details of what you're offering.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 🎨 What Are You Contributing?
+      description: Describe the type of asset or content you're offering.
+      placeholder: Example: A new background music track for battles.
+    validations:
+      required: true
+
+  - type: textarea
+    id: usage
+    attributes:
+      label: 📜 How Should It Be Used?
+      description: Where in the game do you envision this being used?
+      placeholder: Example: Title screen theme, or a specific map.
+
+  - type: textarea
+    id: license
+    attributes:
+      label: 🔖 Licensing or Credit
+      description: Are there license terms? How should credit be given?
+      placeholder: Example: Creative Commons BY-SA, or "Credit me as ExampleUser."
+
+  - type: textarea
+    id: link
+    attributes:
+      label: 🔗 Link to Asset (Optional)
+      description: Link to a file, demo, sample, or image preview.
+      placeholder: Example: Google Drive, Dropbox, etc.
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: ✅ Checklist
+      description: Confirm the following.
+      options:
+        - label: This is my own work or I have permission to share it.
+          required: true
+        - label: I understand submission doesn’t guarantee inclusion.
+          required: true
