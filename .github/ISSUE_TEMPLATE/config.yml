@@ -1,5 +1,8 @@
 blank_issues_enabled: false
-content_contribution_enabled: true
-feature_request_enabled: true
-qol_suggestions_enabled: true
-balance_feedback_enabled: true
+contact_links:
+  - name: 💬 Development Blog
+    url: https://pokemon-test-flight.vercel.app/
+    about: Keep up to date with the latest news and updates.
+  - name: 📖 Wiki
+    url: https://github.com/EmeraldVoid/Pokemon-TestFlight/wiki
+    about: Check the wiki for guides, FAQs, and documentation.
