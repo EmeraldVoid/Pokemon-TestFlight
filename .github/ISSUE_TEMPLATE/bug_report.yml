@@ -1,0 +1,100 @@
+name: 🪲 Bug Report
+description: Report a bug or glitch in Pokémon TestFlight.
+title: "[BUG] "
+labels: ["bug"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🪲 Bug Report — Pokémon TestFlight
+        Thank you for helping improve the game! Please fill out the form below with as much detail as possible.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 📄 Description of the Bug
+      description: A clear and concise description of what the bug is.
+      placeholder: Describe the bug here.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: 🎯 Steps to Reproduce
+      description: List the steps to trigger this bug.
+      placeholder: |
+        1. Go to '...'
+        2. Interact with '...'
+        3. Observe the bug '...'
+      render: bash
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: 📍 Expected Behavior
+      description: What did you expect to happen?
+      placeholder: The expected behavior is...
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual-behavior
+    attributes:
+      label: 🚫 Actual Behavior
+      description: What actually happened instead?
+      placeholder: What happened instead was...
+    validations:
+      required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: 🗺️ Location in Game
+      description: Where in the game did the bug occur? (Example: Floor 2, Lab, NPC Name)
+      placeholder: Example: Battle Tower Floor 3, NPC Ball Guy
+
+  - type: input
+    id: version
+    attributes:
+      label: 💻 Game Version
+      description: What version were you playing? (Example: v0.1a, latest)
+      placeholder: Example: v0.1a
+
+  - type: textarea
+    id: crash-log
+    attributes:
+      label: 📜 Crash Log (If Applicable)
+      description: If the bug resulted in a crash, please paste the crash log here. You can use a `<details>` tag if it's long.
+      placeholder: Paste the crash log here.
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: 📸 Screenshots or Videos
+      description: If applicable, attach screenshots or a link to a video showing the bug.
+      placeholder: Drag and drop images here or paste image links.
+
+  - type: textarea
+    id: system-info
+    attributes:
+      label: 🖥️ System Information (Optional)
+      description: OS version, whether you used the Game.exe, RPG Maker playtest, or PSDK launcher, etc.
+      placeholder: Example: Windows 10, Game.exe
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: ✅ Checklist Before Submitting
+      description: Please verify all of the following.
+      options:
+        - label: I am using the latest version of the game.
+          required: true
+        - label: I have checked that this bug hasn’t been reported yet.
+          required: true
+        - label: I have filled out this form completely.
+          required: true
