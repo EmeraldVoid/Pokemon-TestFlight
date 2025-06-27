@@ -42,10 +42,10 @@
   <tr>
     <td>
       <a href="https://github.com/users/EmeraldVoid/projects/2">
-        <img src="https://img.shields.io/badge/Status%3A-On_Schedule-7ED321" alt="Status: ON SCHEDULE">
+        <img src="https://img.shields.io/badge/Status%3A-At_Risk-FFD900" alt="Status: AT RISK">
       </a>
     </td>
-    <td><em>This project is on track with no risks</em></td>
+    <td>This project is at risk and encountering some challenges</td>
   </tr>
 </table>
 
