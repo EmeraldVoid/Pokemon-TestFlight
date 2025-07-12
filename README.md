@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> This project encountered unexpected technical issues that could not be resolved. As a result, development has been discontinued.
+
+
+
+<details open>
+<summary><strong>📘 Click to Expand: Pokémon TestFlight README</strong></summary>
+
 <p align="center">
   <img src="https://i.imgur.com/X1N3ADz.png">
 </p>
@@ -16,24 +24,20 @@
   <a href="https://github.com/EmeraldVoid/Pokemon-TestFlight/discussions/categories/announcements">Announcements</a>
 </p>
 
----
+<hr>
 
-<br>
-
-### Contents:
-
-- [I. About Pokémon TestFlight](#about-pokémon-testflight)
-- [II. Minimum Recommended Specs](#minimum-recommended-specs)
-- [III. How to Install](#how-to-install)
-- [IV. Features](#features)
-- [V. Screenshots](#screenshots)
-- [VI. FAQ's](#faqs)
-- [VII. Credits](#credits)
-- [VIII. Support the Game](#support-the-game)
-- [IX. Disclaimer](#disclaimer)
-
-<br>
-
+<h3>Contents:</h3>
+<ul>
+  <li><a href="#about-pokémon-testflight">I. About Pokémon TestFlight</a></li>
+  <li><a href="#minimum-recommended-specs">II. Minimum Recommended Specs</a></li>
+  <li><a href="#how-to-install">III. How to Install</a></li>
+  <li><a href="#features">IV. Features</a></li>
+  <li><a href="#screenshots">V. Screenshots</a></li>
+  <li><a href="#faq">VI. FAQ's</a></li>
+  <li><a href="#credits">VII. Credits</a></li>
+  <li><a href="#support-the-game">VIII. Support the Game</a></li>
+  <li><a href="#disclaimer">IX. Disclaimer</a></li>
+</ul>
 
 <table border="1" cellpadding="5" cellspacing="0" align="center">
   <tr>
@@ -49,185 +53,138 @@
   </tr>
 </table>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/emeraldvoid/Pokemon-TestFlight?style=flat-square">
+  <img src="https://img.shields.io/github/issues/emeraldvoid/Pokemon-TestFlight?style=flat-square">
+  <img src="https://img.shields.io/github/v/release/emeraldvoid/Pokemon-TestFlight?style=flat-square">
+  <img src="https://img.shields.io/github/license/emeraldvoid/Pokemon-TestFlight?style=flat-square">
+  <img src="https://img.shields.io/github/last-commit/emeraldvoid/Pokemon-TestFlight?style=flat-square">
+  <img src="https://img.shields.io/github/repo-size/emeraldvoid/Pokemon-TestFlight?style=flat-square">
+  <img src="https://img.shields.io/github/contributors/emeraldvoid/Pokemon-TestFlight?style=flat-square">
+  <img src="https://img.shields.io/github/forks/emeraldvoid/Pokemon-TestFlight?style=flat-square">
+</p>
 
-![GitHub stars](https://img.shields.io/github/stars/emeraldvoid/Pokemon-TestFlight?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/emeraldvoid/Pokemon-TestFlight?style=flat-square)
-![Latest release](https://img.shields.io/github/v/release/emeraldvoid/Pokemon-TestFlight?style=flat-square)
-![License](https://img.shields.io/github/license/emeraldvoid/Pokemon-TestFlight?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/emeraldvoid/Pokemon-TestFlight?style=flat-square)
-![Repo Size](https://img.shields.io/github/repo-size/emeraldvoid/Pokemon-TestFlight?style=flat-square)
-![Contributors](https://img.shields.io/github/contributors/emeraldvoid/Pokemon-TestFlight?style=flat-square)
-![Forks](https://img.shields.io/github/forks/emeraldvoid/Pokemon-TestFlight?style=flat-square)
+<h1 id="about-pokémon-testflight">About Pokémon TestFlight</h1>
 
-<br>
+<p><strong>Pokémon TestFlight</strong> is a fangame created by <strong>Emerald_Void</strong> using <strong>Pokémon Essentials</strong> and <strong>PSDK</strong>.</p>
 
-# About Pokémon TestFlight
+<p>Your dream Pokémon adventure is about to begin! With a pair of running shoes, some spending money (thanks, Mom!), and excitement in your heart, you're ready to take on the world.</p>
 
-**Pokémon TestFlight** is a fangame created by **Emerald_Void** using **Pokémon Essentials** and **PSDK**.
+<p>After receiving your first Pokémon from the esteemed <strong>Professor [NAME]</strong>, you learn about an ambitious new venture—<strong>Battle Tower</strong>, a colossal skyscraper rising from the mysterious <strong>Battle Island</strong>.</p>
 
-Your dream Pokémon adventure is about to begin! With a pair of running shoes, some spending money (thanks, Mom!), and excitement in your heart, you're ready to take on the world.
+<p>Developed by the powerful conglomerate <strong>Pokételion Group</strong>, <em>Battle Tower</em> replaces the traditional Gym system. Instead of traveling town to town, trainers now climb the tower, facing all eight Gym Leaders, the Elite Four, and finally the Champion, all under one roof.</p>
 
-After receiving your first Pokémon from the esteemed **Professor [NAME]**, you learn about an ambitious new venture—**Battle Tower**, a colossal skyscraper rising from the mysterious **Battle Island.**
+<p>Professor [NAME] has been invited to Battle Island by Pokételion Group’s enigmatic CEO, <strong>Thron</strong>. Seeing potential in you, the professor invites you to take on the Battle Tower challenge.</p>
 
-Developed by the powerful conglomerate **Pokételion Group**, ***Battle Tower*** replaces the traditional Gym system. Instead of traveling town to town, trainers now climb the tower, facing all eight Gym Leaders, the Elite Four, and finally the Champion, all under one roof. Is it about saving space? Maximizing profits? Or creating the ultimate training gauntlet? The truth is anyone's guess.
+<p><strong>Your goal is clear:</strong> conquer the tower, defeat every Gym Leader, outlast the Elite Four, and claim victory over the Champion.</p>
 
-Professor [NAME] has been personally invited to Battle Island by Pokételion Group’s enigmatic CEO, **Thron**. Seeing potential in you, the professor invites you to join him and take on the Battle Tower challenge.
+<blockquote><strong>Note:</strong> <em>Battle Tower</em> and Professor [NAME] are placeholders and may change as development progresses.</blockquote>
 
-Your goal is clear: conquer the tower, defeat every Gym Leader, outlast the Elite Four, and claim victory over the Champion. What secrets lie at the top of the tower? Only the strongest will find out.
+<h3 align="center">
+  <a href="https://emeraldvoid.github.io/Pokemon-TestFlight/index.html">You can find out more about the game on the Official Website</a>
+</h3>
 
-Adventure, mystery, and glory await—are you ready to climb?
+<h1 id="minimum-recommended-specs">Minimum Recommended Specs</h1>
 
-This game also serves as a **proof of concept and learning project**, as the developers explore and experiment with Pokémon Essentials and PSDK. It was built to test core mechanics and ideas for future, more expansive projects.
+<h3>Minimum</h3>
+<ul>
+  <li><strong>OS:</strong> Windows XP/2000 (64-bit not supported)</li>
+  <li><strong>Processor:</strong> 800MHz Intel Pentium III or higher</li>
+  <li><strong>Memory:</strong> 128 MB RAM</li>
+  <li><strong>Graphics:</strong> 1024x768 resolution (High Color mode)</li>
+  <li><strong>Storage:</strong> 100 MB available space</li>
+  <li><strong>Sound:</strong> DirectSound-compatible</li>
+</ul>
 
-> [!NOTE]
-> *Battle Tower, and Professor [NAME] are all placeholder names and may change as development progresses further.*
+<h3>Recommended</h3>
+<ul>
+  <li><strong>OS:</strong> Windows XP/Vista/7 (64-bit not supported)</li>
+  <li><strong>Processor:</strong> 1.5GHz Intel Pentium 4 or higher</li>
+  <li><strong>Memory:</strong> 256 MB RAM</li>
+  <li><strong>Graphics:</strong> 1024x768 resolution (True Color mode)</li>
+  <li><strong>Storage:</strong> 500 MB available space</li>
+  <li><strong>Sound:</strong> DirectSound-compatible</li>
+</ul>
 
-<h3 align="center">You can find out more about the game on the <a href="https://emeraldvoid.github.io/Pokemon-TestFlight/index.html">Official Website.</h3></a>
+<blockquote><strong>Note:</strong> Specs sourced from the official RPG Maker XP documentation.</blockquote>
 
+<h1 id="how-to-install">How to Install</h1>
 
-<br>
+<ol>
+  <li>Download the latest release from GitHub.</li>
+  <li>Unzip the folder.</li>
+  <li>Run <code>Game.exe</code>.</li>
+</ol>
 
-# Minimum Recommended Specs
+<blockquote><strong>Important:</strong> No installation of RPG Maker XP, PSDK, or Pokémon Essentials is needed—everything is bundled.</blockquote>
 
-## Minimum
+<h1 id="features">Features</h1>
 
-- **OS:** Microsoft® Windows® XP/200064-bit OS is NOT supported
-- **Processor:** PC with 800MHz Intel® Pentium® III equivalent or higher processor
-- **Memory:** At least 128 MB of system RAM
-- **Graphics Card:** 1024x768 or better video resolution in High Color mode
-- **Storage:** At least 100 MB of available hard disk space
-- **Sound Card:** DirectSound-compatible sound card
+<ul>
+  <li><strong>Expanded Pokédex:</strong> Features [NUMBER] Pokémon + Fakémon.</li>
+  <li><strong>New Challenges:</strong> Original Gym Leaders + Elite Four.</li>
+  <li><strong>Pokémon Mart System:</strong> Buy Pokémon directly.</li>
+  <li><strong>Endgame Content:</strong> Post-game activities.</li>
+  <li><strong>Battle-Focused:</strong> Sim-style format with strategic battles.</li>
+  <li><strong>Nuzlocke Mode:</strong> Hardcore difficulty with smarter AI.</li>
+  <li><strong>New Moves & Abilities:</strong> [NUMBER] custom moves + abilities.</li>
+</ul>
 
-## Recommended
-
-- **OS:** Microsoft® Windows® XP/Vista/764-bit OS is NOT supported
-- **Processor:** PC with 1.5GHz Intel® Pentium® 4 equivalent or higher processor
-- **Memory:** At least 256 MB of system RAM
-- **Graphics Card:** 1024x768 or better video resolution in True Color mode
-- **Storage:** At least 500 MB of available hard disk space
-- **Sound Card:** DirectSound-compatible sound card
-
-> [!NOTE]
-> *These specifications were pulled directly from the RPG Maker XP wesbite*
-
-<br>
-
-# How to Install
-
-1. Download the latest release from the GitHub page.
-2. Unzip the game folder.
-3. Open the folder and run `Game.exe`.
-
-<br>
-
-> [!IMPORTANT]
-> _No installation of RPG Maker XP, PSDK, Pokémon Studio or Pokémon Essentials is required—everything is bundled with the game._
-
-
-<br>
-
-# Features
-
-* **Expanded Pokédex**: Features **[NUMBER]** Pokémon from all generations, plus **[NUMBER]** original Fakémon.
-* **New Challenges**: Face off against brand-new Gym Leaders and an original Elite Four lineup.
-* **Pokémon Mart System**: Purchase a variety of Pokémon directly from in-game shops.
-* **Endgame Content**: Extensive post-game activities to keep the adventure going.
-* **Battle-Focused Gameplay**: Designed as a battle simulator-style experience for competitive and casual play.
-* **Nuzlocke Mode:** Add extra difficulty if you're up to the challenge. Increased AI, higher levels and less money from trainer battles.
-* **Expanded Move Pool:** Added **[NUMER]** new custom moves to diversify battle options.
-* **Expanded Ability Pool:** Introduced **[NUMER]** custom abilities to enhance Pokémon strategies.
-* ****
-* ****
-* ****
-* ****
-* ****
-* ****
-* ****
-
-
-
-<br>
-
-## Screenshots
+<h2 id="screenshots">Screenshots</h2>
 
 <details open>
-    <summary>Show</summary>
-   No Screenshots Yet.
+<summary>Show</summary>
+<p>No Screenshots Yet.</p>
 </details>
 
+<h1 id="faq">FAQ</h1>
 
-<br>
+<p><strong>Q: What is Pokémon TestFlight?</strong><br>
+A: A fan-made Pokémon game focused on open-world experimentation using PSDK/Studio.</p>
 
-# FAQ
+<p><strong>Q: Is it free?</strong><br>
+A: Yes, 100% free to play.</p>
 
-### Q: What is Pokémon TestFlight?  
-**A:** A fan-made Pokémon game focused on open-world exploration and experimentation, built with PSDK/Studio.
+<p><strong>Q: How many Pokémon?</strong><br>
+A: [Coming Soon]</p>
 
-### Q: Is it free to play?  
-**A:** Yes! Pokémon TestFlight is 100% free.
+<p><strong>Q: What region?</strong><br>
+A: The fictional <strong>[X0X0 Region]</strong>.</p>
 
-### Q: How many Pokémon are in the game?  
-**A:** [Coming Soon]
+<p><strong>Q: How long is the game?</strong><br>
+A: There’s no traditional story—conquer Battle Tower and become the Champion.</p>
 
-### Q: What region is the game set in?  
-**A:** Pokemon TestFlight takes place int eh **[X0X0 Reggion]**
+<p><strong>Q: Install method?</strong><br>
+A: Download, unzip, and run <code>Game.exe</code>.</p>
 
-### Q: How long is the main storyline?  
-**A:** There really isn'y a story for Test Flight. The main objective of the game is to conqurer the Battle Tower and become the Champion.
+<p><strong>Q: What platforms?</strong><br>
+A: Windows (native), Mac (via Wine, etc).</p>
 
-### Q: How do I install the game?  
-**A:** Just download the latest release, unzip the folder, and run `Game.exe`.
+<blockquote><strong>Note:</strong> Mac support may vary. I do not use a Mac personally.</blockquote>
 
-### Q: What platforms can I play this on?  
-**A:** Windows (natively) and Mac (using Wine or similar tools).
+<p><strong>Q: Do I need RPG Maker XP installed?</strong><br>
+A: Nope. Everything is bundled.</p>
 
-<br>
+<p><strong>Q: Found a bug?</strong><br>
+A: Report it on the <a href="https://github.com/EmeraldVoid/Pokemon-TestFlight/issues">GitHub Issues Page</a>.</p>
 
-> [!NOTE]
-> **I do not use a Mac so there may be easier ways to do this.**
+<p><strong>Q: Will there be updates?</strong><br>
+A: Undecided. This is a learning project.</p>
 
-<br>
+<p><strong>Q: Who can I contact for help?</strong><br>
+A: Use the <a href="https://github.com/EmeraldVoid/Pokemon-TestFlight/discussions/categories/q-a">Discussions page</a> or file an <a href="https://github.com/EmeraldVoid/Pokemon-TestFlight/issues">Issue</a>.</p>
 
-### Q: Do I need to install RPG Maker or Pokémon Essentials separately?  
-**A:** Nope! Everything you need is bundled inside the game folder.
+<h1 id="credits">Credits</h1>
+<p>Full credits available <a href="https://github.com/EmeraldVoid/Pokemon-TestFlight/blob/main/credits.md">here</a>.</p>
 
-### Q: I found a bug—how can I report it?  
-**A:** Submit any bugs or issues on the [GitHub Issues Page](https://github.com/EmeraldVoid/Pokemon-TestFlight/issues).
+<h1 id="support-the-game">Support the Game</h1>
+<p>Show support by using a userbar or submitting your own on the <a href="https://github.com/EmeraldVoid/Pokemon-TestFlight/discussions">Discussions</a> tab.</p>
 
-### Q: Will there be updates or patches?  
-**A:** Currently undecided. This project was primarily for learning and experimentation.
-
-### Q: Who do I contact for help with the game?  
-**A:** Reach out via the [discussions](https://github.com/EmeraldVoid/Pokemon-TestFlight/discussions/categories/q-a) or file an [issue](https://github.com/EmeraldVoid/Pokemon-TestFlight/issues)
-
-
-
-<br>
-
-# Credits
-
-The full credits are available [here](https://github.com/EmeraldVoid/Pokemon-TestFlight/blob/main/credits.md). Listing everything in this repo would’ve made it a bit too cluttered.
-
-
-<br>
-
-# Support the Game:
-
-If you enjoyed the game and want to show your support, feel free to use one of our UserBars — or create your own and share it in the [Discussions](https://github.com/EmeraldVoid/Pokemon-TestFlight/discussions)!
-
-
-Preview:
-
-
-<br>
-
-# Disclaimer
-
-> [!IMPORTANT]
-> This is a **non-profit fan project**, created by fans for fans.  
-Pokémon is © Nintendo, Game Freak, and The Pokémon Company.  
+<h1 id="disclaimer">Disclaimer</h1>
+<blockquote><strong>Important:</strong><br>
+This is a <strong>non-profit fan project</strong> made by fans, for fans.<br>
+Pokémon © Nintendo, Game Freak, and The Pokémon Company.<br>
 No copyright infringement intended.
+</blockquote>
 
-
-
+</details>
